@@ -1,5 +1,9 @@
 # TechWo Community
 
+#### Ali González
+- Bio: :gem: Ruby lover y tu filósofa de cabecera
+- Github: [ponentesincausa](http://github.com/ponentesincausa)
+
 #### Marcela Bonell
 - Bio: I :heart: DOGS! :dog:
 - GitHub: [mbonell](https://github.com/mbonell)
