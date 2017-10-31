@@ -11,6 +11,7 @@ Sometimes is hard to know how to start in GitHub since many people has different
   These guides are amazing explained and have images for every step.
 
   [GitHub guides](https://guides.github.com/)
+  [Github en Español](https://github.com/MrOutis/GitHub-Simple) es una guía explicativa sobre qué es Git y Github para newbies. También es un repositorio al que puedes contribuir.
 
 * Look out the GitHub help
 
